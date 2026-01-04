@@ -3,7 +3,7 @@
 [![Karin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abe-karin&theme=transparent&show_icons=true)](https://github.com/abe-karin/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abe-karin&hide_progress=true)
 - 🔭 Atualmente estou desenvolvendo minha carreira.
-- 🌱 Aprendendo Flutter
+- 🌱 Sempre Aprendendo
 
 ##
 
@@ -15,7 +15,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
 ##
